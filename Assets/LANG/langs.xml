@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+    <language>
+        <name>Portuguese</name>
+            <button1>Jogar</button1>
+            <button2>Opções</button2>
+    </language>
+
+    <language>
+        <name>English</name>
+            <button1>Play</button1>
+            <button2>Options</button2>
+    </language>
+</languages>
